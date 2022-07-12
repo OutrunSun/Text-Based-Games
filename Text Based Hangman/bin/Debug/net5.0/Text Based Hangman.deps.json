@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Text Based Hangman/1.0.0": {
+        "runtime": {
+          "Text Based Hangman.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Text Based Hangman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

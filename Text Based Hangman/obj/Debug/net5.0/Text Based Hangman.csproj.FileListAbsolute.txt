@@ -1,0 +1,16 @@
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.csproj.AssemblyReference.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.AssemblyInfoInputs.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.AssemblyInfo.cs
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\Text Based Hangman.exe
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\Text Based Hangman.deps.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\Text Based Hangman.runtimeconfig.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\Text Based Hangman.runtimeconfig.dev.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\Text Based Hangman.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\ref\Text Based Hangman.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\bin\Debug\net5.0\Text Based Hangman.pdb
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\ref\Text Based Hangman.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.pdb
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Hangman\obj\Debug\net5.0\Text Based Hangman.genruntimeconfig.cache

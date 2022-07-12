@@ -1,0 +1,16 @@
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\Text Based Minesweeper.exe
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\Text Based Minesweeper.deps.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\Text Based Minesweeper.runtimeconfig.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\Text Based Minesweeper.runtimeconfig.dev.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\Text Based Minesweeper.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\ref\Text Based Minesweeper.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\bin\Debug\net5.0\Text Based Minesweeper.pdb
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.AssemblyInfoInputs.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.AssemblyInfo.cs
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\ref\Text Based Minesweeper.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.pdb
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Minesweeper\obj\Debug\net5.0\Text Based Minesweeper.genruntimeconfig.cache
