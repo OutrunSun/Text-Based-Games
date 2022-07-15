@@ -1,0 +1,16 @@
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.csproj.AssemblyReference.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.AssemblyInfoInputs.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.AssemblyInfo.cs
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.csproj.CoreCompileInputs.cache
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\Text Based Noughts and Crosses.exe
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\Text Based Noughts and Crosses.deps.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\Text Based Noughts and Crosses.runtimeconfig.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\Text Based Noughts and Crosses.runtimeconfig.dev.json
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\Text Based Noughts and Crosses.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\ref\Text Based Noughts and Crosses.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\bin\Debug\net5.0\Text Based Noughts and Crosses.pdb
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\ref\Text Based Noughts and Crosses.dll
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.pdb
+C:\Users\Njbra\Documents\@ Programming\C#\Text Based Games\Text Based Noughts and Crosses\obj\Debug\net5.0\Text Based Noughts and Crosses.genruntimeconfig.cache
