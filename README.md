@@ -2,7 +2,7 @@
 This is a series of projects to demonstrate decent knowledge of C# 
 
 ## Minesweeper
-Extremely basic - there is currently no checker for if you have one
+Extremely basic - there is currently no checker for if you have won
 
 ## Hangman
 Has both singleplayer and multiplayer capacity - not much verification
